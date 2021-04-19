@@ -6,19 +6,19 @@
 	font-family: Matchbook;
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/MatchbookRegular.otf") format("otf");
+    src: url(../fonts/MatchbookRegular.otf) format("otf");
 }
 
 @font-face {
 	font-family: Matchbook;
-	src: url("../fonts/MatchbookTexture.otf") format("otf");
+	src: url(../fonts/MatchbookTexture.otf) format("otf");
 	font-weight: bold;
 }
 
 /* GT America */
 @font-face {
 	font-family: GT-America-Expanded;
-	src: url("../fonts/GT-America-Expanded-Medium.woff2") format("woff2");
+	src: url(../fonts/GT-America-Expanded-Medium.woff2) format("woff2");
 	font-style: normal;
     font-weight: medium;
 }
